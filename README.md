@@ -1,7 +1,7 @@
 # 🔐 Smart Surveillance System 2.0
 > Next-Gen Motion & Face Recognition with Real-Time Alerts, Logs & GUI
 
-![Banner](https://raw.githubusercontent.com/Srinivas-18/Smart-home-security-audit/main/github-header-image.png)
+![Banner](https://raw.githubusercontent.com/pranay-04/Smart-home-security-audit/main/github-header-image.png)
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" />
@@ -131,8 +131,11 @@ python main.py
 
 ---
 
-## 🙌 Author
-**VARIGONDA LAKSHMI SRINIVAS**  
+## 🙌 Authors
+**PATTEL PRANAY REDDY**
+[GitHub → pranay-04](https://github.com/pranay-04)
+
+**VARIGONDA LAKSHMI SRINIVAS**
 [GitHub → Srinivas-18](https://github.com/Srinivas-18)
 
 ---
